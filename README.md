@@ -1,6 +1,8 @@
 # Big-Data-Analytics-on-Stocks-Data
 Enhanced profitability and research of stocks historical data using distributed system analytics. 
-<br> Tools : SQL, Hadoop, Hive, HBase, PySpark, SparkSQL, Sqoop, Excel, Python, Tableau, Snowflake<br>
+<br> 
+## Tools : 
+SQL, Hadoop, Hive, HBase, PySpark, SparkSQL, Sqoop, Excel, Python, Tableau, Snowflake<br>
 
 ## Responsibility:
   * Creating pipelines for transferring data from source(RDBMS) to sink(HDFS)
